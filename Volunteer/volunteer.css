@@ -1,0 +1,50 @@
+.table{
+    vertical-align:middle!important;
+  }
+  .pickup_food_box{
+      padding-top:50px;
+  }
+  .volunteer_footer a{
+      float:left;
+      margin-right:10px;
+      max-width: 275px;
+    width: 100%;
+  }
+  .volunteer_footer{
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom:50px;
+  }
+  .pickup_conf{
+    max-width: 700px!important;
+    margin: 0px auto;
+    padding: 50px;
+    box-shadow: 0px 12px 18px -6px rgb(0 0 0 / 30%);
+
+  }
+  .pickup_conf label{
+    font-weight:700;
+    margin-bottom:10px
+  }
+  .pickup_conf input[type=text], .pickup_conf input[type=email]{
+    margin-bottom:15px;
+    background-color: #f7f7f7!important;
+    padding:8px
+  }
+  .pickup_con_div{
+    padding: 80px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .pick_button_wrap{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
+  .pick_button_wrap a{
+    margin-left:15px;
+    background-color: #0F1521;
+  }
