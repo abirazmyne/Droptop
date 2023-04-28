@@ -39,7 +39,7 @@ if((isset($_POST['submit'])))
             <form class="form" method="POST">
                 <div class="dfs_location">
                 <h4 class="dfs_form_heading">Enter Your Details Here To Donate This Project</h4>
-                <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyD20fa8okNgStseZ2om1G0aaf7qzVmOvGQ&libraries=places"></script>
+                
 
 <script type="text/javascript">
     var source, destination;
